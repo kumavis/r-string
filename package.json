@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "r-array": "0.5.x"
+    "r-array": "~0.5.3"
   },
   "repository": {
     "type": "git",
